@@ -4,7 +4,7 @@
 - Yullie Cruz: [GitHub](https://github.com/cruzpyu)
 - Jéssica Adriely: [GitHub](https://github.com/jessicadriely14)
 
-### Confingurações do Git
+### Configurações do Git
 - git help
   > Lista de comandos do Git
 - git config --list
